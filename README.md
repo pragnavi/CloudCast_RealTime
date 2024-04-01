@@ -20,7 +20,7 @@ To run this project, you'll need to have Xcode installed on your macOS system. F
 * Clone the repository:
 bash
 Copy code
-git clone https://github.com/YourGitHubUsername/CloudCastPt2.git
+git clone https://github.com/pragnavi/CloudCast_RealTime.git
 * Open CloudCast.xcodeproj in Xcode.
 * Build and run the project on your preferred iOS simulator or physical device.
 
