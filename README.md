@@ -1,5 +1,6 @@
-# CloudCast: Weather Forecast iOS App
-Welcome to CloudCast - an interactive iOS weather forecasting application. This project is part of my iOS Application Development journey with Codepath, where I dive deep into fetching and displaying real data from the internet using Swift and Xcode.
+# CloudCast: Real-Time Weather Forecast iOS App
+
+Welcome to CloudCast - an interactive iOS weather forecasting application. This app dives deep into fetching and displaying real data from the internet using Swift and Xcode.
 
 ## Overview
 CloudCast is more than just a weather app; it's an exploration into how mobile applications can utilize live data to enhance user experience. In this project, I focused on the following key learning areas:
@@ -30,6 +31,21 @@ Upon launching the app, you'll be greeted with the current weather conditions fo
 Contributions, issues, and feature requests are welcome! Feel free to check issues page if you want to contribute.
 
 ## Support
-If you found this project useful, please consider giving it a star. If you have any questions or feedback, don't hesitate to reach out.
+If you found this project useful, please consider giving it a star. If you have any questions or feedback, don't hesitate to reach out @pragnavi1398@gmail.com.
 
+## License
+
+    Copyright [2024] [Pragnavi Ravuluri Sai Durga]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
 
